@@ -8,4 +8,4 @@ You can find me on LinkedIn here:
 - www.linkedin.com/in/gabriel-a-rodriguez
 
 Check out my most recent project, deploying RL policies on the Unitree Go2:
-- https://github.com/gabearod2/go2_rl_ws
+- https://github.com/eppl-erau-db/go2_rl_ws
