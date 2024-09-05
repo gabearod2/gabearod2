@@ -4,8 +4,5 @@ You can reach me at either of the following two emails:
 - Personal/Professional: gabearod2@gmail.com
 - Academic: rodrig43@my.erau.edu
 
-You can find me on LinkedIn here:
-- www.linkedin.com/in/gabriel-a-rodriguez
-
 Check out my most recent project, deploying RL policies on the Unitree Go2:
 - https://github.com/eppl-erau-db/go2_rl_ws
